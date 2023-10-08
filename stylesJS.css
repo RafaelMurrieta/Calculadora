@@ -1,0 +1,37 @@
+/* Estilos para el tema oscuro */
+.dark-mode{
+    background-color: #333333; /* Fondo oscuro */
+    color: #ffffff; /* Texto blanco */
+}
+
+.dark-container{
+    background-color: rgba(0, 0, 0);
+}
+.dark-buton-color{
+    background-color: white;
+}
+
+.dark-container-calcu{
+    background-color: #333333;
+    box-shadow: .5px 0px 90px 1px rgb(75, 131, 145);
+}
+.dark-contener-number{
+    background-color: gray;
+}
+.dark-conatiner{
+    background-color: #333333;
+}
+.colum .pink-dark{
+    color: red;
+    background-color: #F5D547;
+}
+.colum .green-dark{
+    background-color: #85EDA4;
+}
+.colum .red-dark{
+    background-color: rgb(12, 12, 98);
+    color: white;
+}
+.colum .equal-dark{
+    background-color: #EE4400;
+}
